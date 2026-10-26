@@ -1,7 +1,7 @@
 # Biblioteca API
 
-API REST para cadastro e consulta de livros — Node.js + Express + TypeScript.
-Disciplina: Desenvolvimento Web 2 · Turma 2EMAD · Aluno: Renan Kauan Souza Carvalho
+API REST para cadastro e consulta de livros para Node.js + Express + TypeScript.
+Disciplina: Desenvolvimento Web 2 | Turma: 2EMAD | Aluno: Renan Kauan Souza Carvalho
 
 ## Como executar
 
@@ -36,4 +36,4 @@ Exemplo de corpo para `POST /livros`:
 
 Códigos HTTP: `200`, `201`, `400` (dados inválidos / ISBN duplicado), `404` (ISBN inexistente), `500`.
 
-Veja a documentação completa em `documentacao-biblioteca.pdf`.
+A documentação completa está em `documentacao-biblioteca.pdf`.
