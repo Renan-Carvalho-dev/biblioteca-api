@@ -36,4 +36,4 @@ Exemplo de corpo para `POST /livros`:
 
 Códigos HTTP: `200`, `201`, `400` (dados inválidos / ISBN duplicado), `404` (ISBN inexistente), `500`.
 
-A documentação completa está em `documentacao-biblioteca.pdf`.
+A d
