@@ -1,6 +1,6 @@
 # Biblioteca API
 
-API REST para cadastro e consulta de livros para Node.js + Express + TypeScript.
+API REST para cadastro e consulta de livros, feita com Node.js, Express e TypeScript.
 Disciplina: Desenvolvimento Web 2 | Turma: 2EMAD | Aluno: Renan Kauan Souza Carvalho
 
 ## Como executar
